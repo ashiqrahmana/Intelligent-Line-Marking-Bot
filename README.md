@@ -1,6 +1,7 @@
 # iLMBt - Intelligent Line Marking Bot
 iLMBt (intelligent Line Marking Bot) is an autonomous wheeled mobile robot designed specifically for marking lines on sports fields without the need for human intervention. This GitHub repository contains all the necessary code, documentation, and design files to build and operate the iLMBt robot.
-![alt text](https://github.com/ashiqrahmana/Intelligent-Line-Marking-Bot/blob/main/Documentation/Media/IMG_6448.JPG)
+
+![alt text](https://github.com/ashiqrahmana/Intelligent-Line-Marking-Bot/blob/main/Documentation/Media/IMG_6151.JPG)
 
 ## Project Overview
 The primary objective of iLMBt is to automate the line marking process in sports fields. By eliminating the need for human labor, iLMBt offers increased efficiency, precision, and reliability in line marking tasks. The robot utilizes a hopper mechanism controlled by a motorized lead screw to control the flow of marking powder. It also incorporates an effective dampening system for smooth and consistent line marking operations.
